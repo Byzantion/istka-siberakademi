@@ -1,7 +1,7 @@
 # istka-siberakademi
 İSTKA-İGÜ SİBER AKADEMİ PROJE
 
-![image](https://github.com/user-attachments/assets/b6b31fb1-d392-4806-9d4b-09798bb1943b)
+![image](https://github.com/user-attachments/assets/9482b33a-8e52-4494-b946-db38d5eec98c)
 
 
 ## Projemizin yönetim süreci ve yapılan analizi aşağıdaki şekildedir:
@@ -40,7 +40,10 @@ Bu proje, **T-Pot honeypot sistemi** ile **Splunk** arasında entegrasyon kurara
 
 - **T-Pot**: Honeypot tabanlı güvenlik çözümü, sahte servisler aracılığıyla saldırı davranışlarını kaydeder.  
 - **Splunk**: Saldırı loglarını JSON formatında alıp analiz ve görselleştirme sağlar.  
-- **Amaç**: Saldırgan aktivitelerini izlemek, güvenlik açıklarını anlamak ve raporlamalar oluşturmak.  
+- **Amaç**: Saldırgan aktivitelerini izlemek, güvenlik açıklarını anlamak ve raporlamalar oluşturmak.
+
+  ![image](https://github.com/user-attachments/assets/5c6cd4bb-c899-46d1-958b-7adab6b72886)
+
 
 ---
 
