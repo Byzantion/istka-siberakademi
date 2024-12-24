@@ -1,8 +1,33 @@
 # istka-siberakademi
 İSTKA-İGÜ SİBER AKADEMİ PROJE
-![Ekran görüntüsü 2024-11-25 120725](https://github.com/user-attachments/assets/33b9e3e0-8322-4e81-8f16-1f68957fca84)
+
+## Projemizin yönetim süreci ve yapılan analizi aşağıdaki şekildedir:
+(Purple Team isminin amacı proje içeriğinin hem Red hem Blue Team içermesidir.)
+
+![image](https://github.com/user-attachments/assets/34f09568-bf8c-45d1-87da-e2a721489ce6)
+
+
+# SANAL SUNUCU TABANLI SOC ÇALIŞMA ORTAMI
+
+![image](https://github.com/user-attachments/assets/2fdababb-68e8-4be7-8d12-853875c9e650)
+
+
+
+Bu çalışma, siber güvenlik alanında yaygın olarak kullanılan honeypot teknolojilerini ve T-Pot platformunun özelliklerini incelemektedir. Projenin amacı, simüle edilmiş siber saldırılar yoluyla
+honeypotların etkinliğini değerlendirmek ve bu saldırılardan elde edilen verilerin analiziyle anlamlı
+çıkarımlar sunmaktır. Kali Linux kullanılarak T-Pot platformunda yer alan honeypotlara yönelik çeşitli
+saldırılar gerçekleştirilmiş, farklı portlar üzerinden yapılan spesifik saldırı türleri analiz edilmiştir.
+Elde edilen log verileri Splunk platformuna aktarılmış ve detaylı bir şekilde incelenmiştir.
+Çalışma kapsamında, honeypotların siber tehditleri yakalamadaki rolü ve saldırılara karşı sağladığı
+farkındalık detaylandırılmıştır. Bulgular, saldırı türlerinin etkilerini ortaya koymakla birlikte, aynı
+zamanda honeypot teknolojilerinin güvenlik operasyon merkezi (SOC) ekipleri için ne denli önemli
+olduğunu da göstermiştir. Proje, honeypotların siber güvenlik savunma stratejilerinde kritik bir araç
+olabileceğini vurgulamakta ve bu alandaki uygulamalara değerli katkılar sunmaktadır.
+
 
 # 🛡️ T-Pot ve Splunk ile Honeypot İzleme ve Saldırı Analizi
+
+![Ekran görüntüsü 2024-11-25 120725](https://github.com/user-attachments/assets/33b9e3e0-8322-4e81-8f16-1f68957fca84)
 
 Bu proje, **T-Pot honeypot sistemi** ile **Splunk** arasında entegrasyon kurarak saldırı loglarının toplanmasını, analiz edilmesini ve görselleştirilmesini amaçlar. Proje kapsamında, hem yerel ağdaki hem de dışarıdan gelen saldırılar izlenmiş ve raporlanmıştır.
 
