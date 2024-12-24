@@ -1,6 +1,9 @@
 # istka-siberakademi
 İSTKA-İGÜ SİBER AKADEMİ PROJE
 
+![image](https://github.com/user-attachments/assets/b6b31fb1-d392-4806-9d4b-09798bb1943b)
+
+
 ## Projemizin yönetim süreci ve yapılan analizi aşağıdaki şekildedir:
 (Purple Team isminin amacı proje içeriğinin hem Red hem Blue Team içermesidir.)
 
